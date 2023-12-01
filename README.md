@@ -89,7 +89,6 @@
   </a>
 </p>
 
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -97,15 +96,16 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
-
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/ghita-loukili-46405924a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/GhitaSensei" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
+  <a ></a>
+  <a href="https://www.linkedin.com/in/ghita-loukili-46405924a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="120" /></a>
+  <a href="https://twitter.com/GhitaSensei" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" height="30" width="40" /></a>
 </p>
 
 <!--- snake -->
 ![Snake animation](https://raw.githubusercontent.com/GhitaLoukili/GhitaLoukili/output/github-contribution-grid-snake-dark.svg)
+
 ----------------------------------------------------------------------
 
 Last Edited on: 01/12/2023
