@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Java, Go, React** while also focusing on learning how to write **clean code**.
 
-- ☁️ I'm interested in cloud computing and DevOps culture.
+- ☁️ I'm interested in full-stack development as well as cloud computing and DevOps culture.
 
 <!-- - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB** -->
 
