@@ -16,13 +16,11 @@
 </div>
 
 <!--profile visit count-->
-<div align="center">
-  
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=GhitaSensei&label=Profile%20Views&color=6&icon=3&pretty=true" />
-</a>
-  
-</div>
+<!-- <div align="center"> -->
+<!-- <a href="https://visitcount.itsvg.in"> -->
+<!--   <img src="https://visitcount.itsvg.in/api?id=GhitaSensei&label=Profile%20Views&color=6&icon=3&pretty=true" /> -->
+<!-- </a> -->
+<!-- </div> -->
 
 <!-- <picture decoding="async" loading="lazy"> -->
 <!--   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)"> -->
