@@ -1,6 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -22,19 +19,12 @@
 <!-- </a> -->
 <!-- </div> -->
 
-<!-- <picture decoding="async" loading="lazy"> -->
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)"> -->
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=true&background=linear-gradient(to%20bottom%2C%20%23CD001A%200%25%2C%20%23CD001A%2014.72%25%2C%20%23F06400%2014.72%25%2C%20%23F06400%2028.56%25%2C%20%23F2CD00%2028.56%25%2C%20%23F2CD00%2042.84%25%2C%20%2379c300%2042.84%25%2C%20%2379c300%2057.12%25%2C%20%231961ae%2057.12%25%2C%20%231961ae%2071.4%25%2C%20%2331137c%2071.4%25%2C%20%2331137c%2085.24%25%2C%20%2361007d%2085.24%25%2C%20%2361007d%20100%25)"> -->
-<!--   <source src="https://pixel-profile.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=false&background=linear-gradient(to%bottom%right%2C%051937%2C%c777b9%2C%ba83ca)" > -->
-<!--   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=true&pixelate_avatar=false&background=linear-gradient(to%bottom%right%2C%051937%2C%A8EB12%2C%ba83ca)"> -->
-<!-- </picture> -->
-
 <!--Intro start-->
 - 📍 I’m based in Salé, Morocco
 
 - 🌱 I’m currently learning **Java, Go, React** while also focusing on learning how to write **clean code**.
 
-- ☁️ I'm interested in full-stack development as well as cloud computing and devops culture.
+- ☁️ I'm interested in fullstack development as well as cloud computing and devops culture.
 
 <!-- - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB** -->
 
@@ -43,11 +33,11 @@
 - 💭 **"Improving daily work is even more important than doing daily work"**.
 <!--Intro end-->
 
-
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%28320deg%2C+%230eaf9bFF+14%25%2C+%23f9c22bFF+100%25%29&color=%23323353FF)
 
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
+<!--<p align="center">
+  
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -63,20 +53,17 @@
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GhitaLoukili&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
-</table>
-<!--- stats (end) -->
+</table>-->
 
 <!--- trophy (start) -->
-<div align=center>
+<!--<div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=GhitaLoukili&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
 
+</p>-->    
 
-</p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
@@ -112,6 +99,4 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 01/12/2023
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Last Edited on: 14/03/2024
