@@ -95,7 +95,7 @@
 </p>
 
 <!--- snake -->
-![Snake animation](https://raw.githubusercontent.com/RitaSensei/RitaSensei/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RitaSensei/GhitaLoukili/output/github-contribution-grid-snake-dark.svg)
 
 ----------------------------------------------------------------------
 
