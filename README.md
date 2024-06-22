@@ -33,7 +33,7 @@
 - 💭 **"Improving daily work is even more important than doing daily work"**.
 <!--Intro end-->
 
-![](https://pixel-profile-ui.vercel.app/api/github-stats?username=GhitaLoukili&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%28320deg%2C+%230eaf9bFF+14%25%2C+%23f9c22bFF+100%25%29&color=%23323353FF)
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=RitaSensei&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%28320deg%2C+%230eaf9bFF+14%25%2C+%23f9c22bFF+100%25%29&color=%23323353FF)
 
 <!--- stats & Trophy (start) -->
 <!--<p align="center">
@@ -95,8 +95,8 @@
 </p>
 
 <!--- snake -->
-![Snake animation](https://raw.githubusercontent.com/GhitaLoukili/GhitaLoukili/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RitaSensei/RitaSensei/output/github-contribution-grid-snake-dark.svg)
 
 ----------------------------------------------------------------------
 
-Last Edited on: 14/03/2024
+Last Edited on: 22/06/2024
