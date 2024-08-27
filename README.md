@@ -8,7 +8,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Software engineering student and IT enthusiast</h2></summary>
+    <summary><h2 style="display: inline-block">SWE Student and IT enthusiast</h2></summary>
   </ul>
 </div>
 
@@ -22,11 +22,11 @@
 <!--Intro start-->
 - 📍 I’m based in Salé, Morocco
 
-- 🌱 I’m currently learning **Java, Go, React** while also focusing on learning how to write **clean code**.
+- 🌱 I’m currently learning **Java, Spring Boot, and React Native** while also focusing on learning how to write **clean code**.
 
-- ☁️ I'm interested in fullstack development as well as cloud computing and devops culture.
+- ☁️ I'm working on expanding my expertise in backend and mobile development.
 
-<!-- - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB** -->
+- 🧐 I am also discovering more about DevOps and Cloud Computing.
 
 - 📫 Feel free to reach me out **ghita28loukili@gmail.com**
 
@@ -75,8 +75,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,java,py,go,js,ts,css,html,linux,mongodb,mysql,postgresql,supabase,firebase,nodejs,react,astro,angular,spring,androidstudio,postman,latex,githubactions" />
-    
+    <img src="https://skillicons.dev/icons?i=c,java,py,js,ts,css,html,linux,mongodb,mysql,postgresql,supabase,firebase,nodejs,react,astro,tailwind,angular,spring,androidstudio,cypress,postman,latex,git,gitlab,githubactions,docker" />
   </a>
 </p>
 
@@ -88,11 +87,14 @@
   </ul>
 </div>
 <!--icons and links-->
-<p align="center">
-  <a ></a>
-  <a href="https://www.linkedin.com/in/ghita-loukili-46405924a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="120" /></a>
-  <a href="https://twitter.com/GhitaSensei" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" height="30" width="40" /></a>
-</p>
+<div align="center" style="display: inline-block; align-items: center; flex-direction: row; justify-content: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/ghita-loukili-46405924a/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/GhitaSensei" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" height="45" width="45" />
+  </a>
+</div>
 
 <!--- snake -->
 ![Snake animation](https://raw.githubusercontent.com/RitaSensei/GhitaLoukili/output/github-contribution-grid-snake-dark.svg)
