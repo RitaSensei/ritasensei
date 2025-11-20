@@ -8,7 +8,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">SWE Student and IT enthusiast</h2></summary>
+    <summary><h2 style="display: inline-block">Software Engineer</h2></summary>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
 <!-- </div> -->
 
 <!--Intro start-->
-- 📍 I’m based in Salé, Morocco
+- 📍 I’m based in Casablanca, Morocco
 
 - 🌱 I’m currently learning **Java, Spring Boot, and React Native** while also focusing on learning how to write **clean code**.
 
